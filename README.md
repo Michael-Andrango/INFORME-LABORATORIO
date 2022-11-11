@@ -2,17 +2,19 @@
 
 Integrantes: 
 -JEAN PIERRE MERA GUZMAN
+
 -MICHAEL PATRICIO ANDRANGO CAMPUEZ
+
 -JOSE MAURICIO FUEREZ ARIAS
 
 PRÁCTICA No. 1 LEYES DE KIRCHHOFF
 
 1.1. OBJETIVO DE LA PRÁCTICA
 
-*Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff 
+-Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff 
 de Corrientes.
 
-*A través de las Leyes de Kirchhoff calcular los valores teóricos de las intensidades de corriente 
+-A través de las Leyes de Kirchhoff calcular los valores teóricos de las intensidades de corriente 
 y los voltajes en un circuito específico.
 
 1.2. REQUISITOS PREVIOS.
@@ -124,10 +126,10 @@ se acercan.
 
 CONCLUSIONES
 
-*En el circuito eléctrico se utilizó un análisis y comprensión adecuado del esquema del circuito, 
+-En el circuito eléctrico se utilizó un análisis y comprensión adecuado del esquema del circuito, 
   por medio de materiales adecuados, para que el circuito cumpliera con todo lo solicitado.
 	
-  *Se determinó que el circuito eléctrico cumple con todas las leyes de Kirchhoff, tanto en los cálculos 
+-Se determinó que el circuito eléctrico cumple con todas las leyes de Kirchhoff, tanto en los cálculos 
   previos, como en los resultados obtenidos de las mediciones.
 
 BIBLIOGRAFIA
